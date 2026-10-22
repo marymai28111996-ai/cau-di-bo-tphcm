@@ -1,0 +1,6 @@
+{
+  "name": "Cầu Đi Bộ Sông Sài Gòn - Longform E-Magazine",
+  "description": "Tác phẩm báo chí Longform E-magazine: Hành trình 10 mốc lịch sử kiến tạo Cầu đi bộ qua sông Sài Gòn mang biểu tượng Lá dừa nước Nam Bộ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
